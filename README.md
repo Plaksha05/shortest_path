@@ -1,4 +1,4 @@
-Team name: The Ismians
+
 
 Contributors:
 1. Shipra Sharma(shipramzn7300@gmail.com)
